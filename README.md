@@ -1,6 +1,6 @@
 # Rasa NLU Training Data
 These Rasa NLU training data examples of small talk are a compilation of some of the chaotic ways in which users interact with chatbots.
-This data will hopefully make your chatbot robust in detecting common intents.
+This data will hopefully make your chatbot more robust in detecting common intents.
 
 # Intents
 * greet
