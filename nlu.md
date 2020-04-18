@@ -1,0 +1,93 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- whaddup
+- what's up
+- wassup
+- hiya
+- hello you
+- hi there
+- hey u
+- helo u
+- henlo
+- salam
+- howdy
+- hihi
+- sup
+- yo
+- yooooooo
+- aoa
+- assalamoalaikum
+
+## intent:goodbye
+- bye
+- bi
+- bi bi
+- bubye
+- goodbye
+- see you around
+- see you later
+- see ya
+- c ya
+- cya
+- ciao
+- ok bye
+- catch ya later
+- catch u later
+- catch you later
+- khuda hafiz
+- night night
+- allah hafiz
+- shab bakhair
+- goodnight
+
+## intent:affirm
+- yes
+- indeed
+- yep
+- yup
+- yeah
+- sounds cool
+- cool
+- ok cool
+- that's right
+- great
+- of course
+- that sounds good
+- correct
+- okay
+- ok
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- nope
+- nonono
+- i'm not satisfied
+- this isn't right
+- this is not right
+- does not look right
+- i dont like this
+- nah man
+- nahhh
+- no way
+- not really
+
+## intent:bot_challenge
+- are you a bot?
+- what are u?
+- what are you?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- i feel suspicious
+- who is this?
+- who am i talking to?
+- i dont trust u
+- who are you?
